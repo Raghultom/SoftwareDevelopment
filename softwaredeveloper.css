@@ -3008,6 +3008,7 @@ body {
         margin: auto;
         overflow: hidden;
         border-radius: 10px;
+        display: block !important;
 
     }
 
