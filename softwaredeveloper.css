@@ -1041,6 +1041,12 @@ body {
         margin-bottom: 20px;
         width: 100%;
     }
+    .centered-col {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        margin-left: 5% !important;
+    }
 
     .Development-Methodologies-link {
         font-size: 20px;
@@ -1063,16 +1069,16 @@ body {
     }
 
     .Development-Methodologies-bottom {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
     }
 
     .Development-Methodologies-link1 {
         font-size: 20px;
         font-weight: 600;
         line-height: 22px;
-        text-align: center;
+        text-align: center !important;
         width: 100%;
         /* color: rgba(44, 160, 104, 1); */
         display: block;
@@ -1107,9 +1113,9 @@ body {
     .card1agile {
         color: #000;
         /* Set card1agile text color to black */
-        text-align: center;
+        text-align: center !important;
         /* Center align the text */
-        align-items: center;
+        align-items: center !important;
     }
 
     .card1innerpara,
