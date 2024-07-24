@@ -803,7 +803,7 @@ body {
 .Development-Methodologies-maindiv {
     width: 100%;
     height: auto;
-    margin-top: 108px;
+    margin-top: 100px !important;
 }
 
 .Development-Methodologies-header {
@@ -1045,7 +1045,7 @@ body {
         display: flex !important;
         align-items: center !important;
         justify-content: center !important;
-        margin-left: 5% !important;
+        margin-left: 4% !important;
     }
 
     .Development-Methodologies-link {
@@ -1182,7 +1182,7 @@ body {
 }
 
 .Applications-Through-Data-container {
-    margin-top: 100px;
+    margin-top: 110px !important;
 }
 
 .Applications-Through-Data-maindiv {
@@ -1688,7 +1688,7 @@ body {
 
 .Our-casestudies-maindiv {
     width: 100%;
-    margin-top: 100px;
+    margin-top: 100px !important;
 }
 
 .Our-casestudies-heading {
@@ -1869,7 +1869,8 @@ body {
 
 .intelligent-emerging {
     width: 100%;
-    height: auto !important;
+    /* height: auto !important; */
+    margin-top: 100px !important;
 }
 
 .intelligent-emerging-head h1 {
@@ -1880,7 +1881,7 @@ body {
 
     color: #000000;
     margin-bottom: 50px !important;
-    margin-top: 30px !important;
+    margin-top: 0px !important;
 
 }
 
@@ -2622,7 +2623,7 @@ body {
 /* news and blogs start  */
 
 .about_session10_maindiv {
-    margin-top: 60px;
+    margin-top: 100px;
 }
 
 .about-session {
@@ -3182,7 +3183,7 @@ body {
 
 .section13layout {
     width: 100%;
-    margin-top: 100px;
+    margin-top: 100px !important;
     margin-bottom: 100px !important;
 
 }
